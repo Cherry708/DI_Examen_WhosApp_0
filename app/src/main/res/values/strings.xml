@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DI_Examen_WhosApp_0</string>
+    <string name="tvLlamadas">LLAMADAS</string>
+    <string name="estados">ESTADOS</string>
+    <string name="tran_photo">tran_photo</string>
+    <string name="tran_text">tran_text</string>
+
+    <string name="card1">Marta</string>
+    <string name="card2">Diego</string>
+    <string name="card3">Marcos</string>
+    <string name="card4">Carla</string>
+    <string name="card5">Iker</string>
+    <string name="card6">Lucas</string>
+    <string name="card7">Aida</string>
+    <string name="card8">Laura</string>
+
+</resources>
